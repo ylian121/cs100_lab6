@@ -17,7 +17,7 @@ Triangle::Triangle(int side1, int side2, int side3)
 
 int
 Triangle::getPerimeter() const {
-  return side1 + side2 + side2;
+  return side1 + side2 + side3;
 }
 
 
