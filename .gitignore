@@ -1,0 +1,10 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+googletest-build/
+googletest-download/
+googletest-src/
+bin/
+lib/libgtest.a
+lib/libgtest_main.a
